@@ -10,3 +10,4 @@ const d = a - b;
 console.log(d);
 
 console.log("hello world");
+console.log("hello world2");
