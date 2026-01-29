@@ -8,3 +8,5 @@ console.log(c);
 
 const d = a - b;
 console.log(d);
+
+console.log("hello world");
